@@ -1,6 +1,6 @@
 import socket
 import tkinter as tk
-
+#agrege este comentario
 # Función para mostrar la página de Hostname
 def mostrar_hostname_page():
     # Oculta la página inicial
